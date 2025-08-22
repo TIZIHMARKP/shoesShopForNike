@@ -1,0 +1,1 @@
+const unusedVariable = "eslint please work";

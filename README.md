@@ -1,8 +1,33 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Nike Shoe Shop Landing Page
 
-Currently, two official plugins are available:
+A modern, responsive landing page for a Nike shoe shop built with React.js and Tailwind CSS. This page showcases various Nike shoe models with new arrivals and discount prices, encouraging users to sign up for newsletters and updates.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+- Responsive design that works on desktop and mobile devices
+
+- New arrivals section highlighting latest products
+
+- Special discount pricing for featured items
+
+- Newsletter signup form for updates
+
+- Clean, modern UI with Tailwind CSS styling
+
+![Project Screenshot](./src/assets/screenshots/tailwindLearningJourney.PNG)
+
+## Getting Started
+
+Installation
+- Fork the repository:
+
+- Install dependencies:
+
+bash
+npm install
+Start the development server:
+
+ 
+
+ 
